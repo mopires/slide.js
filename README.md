@@ -1,3 +1,3 @@
 # slide.js
 
-Codigo fonte para a criação de um "WebSlide".
+Código fonte para a criação de um "WebSlide".
