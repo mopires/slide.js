@@ -13,7 +13,7 @@ $(function(){
             num++;
             if(num > slides.length){
 
-                num = (slides.length - 1); //erro aqui 
+                num = (slides.length - 1);
                 $("#main").html(slides[num]);
 
             }
